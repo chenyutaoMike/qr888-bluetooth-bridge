@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "https://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+<key>CFBundleIdentifier</key><string>org.labelbridge.qr888</string>
+<key>CFBundleName</key><string>启锐蓝牙打印桥</string>
+<key>CFBundleDisplayName</key><string>启锐蓝牙打印桥</string>
+<key>CFBundleExecutable</key><string>QR888BluetoothBridge</string>
+<key>CFBundlePackageType</key><string>APPL</string>
+<key>CFBundleVersion</key><string>3</string>
+<key>CFBundleShortVersionString</key><string>0.3.0</string>
+<key>LSUIElement</key><true/>
+<key>LSMinimumSystemVersion</key><string>11.0</string>
+<key>NSBluetoothAlwaysUsageDescription</key><string>查找并连接你选择的启锐 QR-888XPro。打印任务在你确认预览后才通过蓝牙发送。</string>
+</dict></plist>

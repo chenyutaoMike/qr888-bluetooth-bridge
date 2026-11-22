@@ -1,0 +1,19 @@
+QR888 Bluetooth Bridge  快速开始
+
+1. 从启锐官网下载并安装「启锐MacOS驱动」
+   https://qrprt.com/download.html
+
+2. 把「QR888 Bluetooth Bridge」拖到 Applications，打开 App。
+   允许蓝牙访问。菜单栏会出现「启锐」。
+
+3. 点「添加打印机」，再选择你的 QR-888XPro。
+   也可以从菜单栏打开「设置系统打印机」和「选择蓝牙打印机」。
+
+4. 从菜单栏打开「100 × 100 mm 测试标签」，按 ⌘P。
+   打印机选「启锐 QR-888XPro 蓝牙」，选对纸张后提交任务。
+   在「启锐打印预览」检查标签和总张数。点确认才会出纸，或点取消结束测试。
+
+本地试用包使用临时签名。若 macOS 阻止启动，确认来源可信且文件校验码相符后，
+可按 Apple 的说明为这个 App 选择「仍要打开」：https://support.apple.com/zh-cn/102445
+
+当前已验证 Apple Silicon Mac。Intel Mac 和旧版 macOS 需要另行实机验证。

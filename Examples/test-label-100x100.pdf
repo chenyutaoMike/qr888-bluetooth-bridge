@@ -1,0 +1,36 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 283.46457 283.46457] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Length 194 >>
+stream
+0 g
+BT /F1 16 Tf 24 244 Td (QR-888XPro BLE TEST) Tj ET
+BT /F1 11 Tf 24 215 Td (100 x 100 mm - one label) Tj ET
+1 w 24 185 m 165.7323 185 l S
+BT /F1 11 Tf 24 163 Td (Reference line: 50 mm) Tj ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000253 00000 n 
+0000000323 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+567
+%%EOF
